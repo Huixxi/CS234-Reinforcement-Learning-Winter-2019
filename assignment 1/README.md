@@ -1,6 +1,6 @@
 # Assignment 1
 This assignment is a easy one, corresponding to lecture 1 and lecture 2. You better learn the course slides scrupulously and do the written homework first, which guarantees you fully understand the algorithm.  
-***Notes:*** I have modified some codes of the original version assignment mainly because I thought some codes were wrong. I have annotated for these modified parts.
+***Notes:*** I have modified some codes of the original version assignment mainly because I thought these codes were wrong. I have annotated for these modified parts.
 
 ## Related Knowledge
 * Markov Decision Processes(MDPs) 
