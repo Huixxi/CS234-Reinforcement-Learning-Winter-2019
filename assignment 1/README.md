@@ -11,7 +11,6 @@ This assignment is a easy one, corresponding to lecture 1 and lecture 2. You bet
   * Policy Improvement
 * Value Iteration
 
-***
 ## Recommend Readings
 * Reinforcement Learning: An Introduction Edition 2
   * Chapter 3 Finite Markov Decision Processes
