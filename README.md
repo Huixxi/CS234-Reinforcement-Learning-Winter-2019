@@ -12,15 +12,24 @@ This course contains 8 lecture videos, and you can watch them from youtube and b
 
 * assignment 3
 
-### Highly Recommended RL Resource
-* Resource List
+### Highly Recommended RL Resources
+* Resources List
   * [RL Resources](https://docs.google.com/document/d/1frWabYtrRE4_Ak2fhcNtk7U-ujtU5Aq762Nq-Ryi9A8/edit)
 * TextBooks
   * [Reinforcement Learning: An Introduction Edition 2](http://incompleteideas.net/book/the-book-2nd.html)
   * [Deep Learning](http://www.deeplearningbook.org/)
 
 * Papers:
-  * balabala
+  * To be continue ...
+  
+* Videos:
+  * To be continue ...
+
+* Blogs:
+  * To be continue ...
+  
+### Author
+@Huxixi
   
   
 
