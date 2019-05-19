@@ -10,7 +10,7 @@ This course contains 8 lecture videos, and you can watch them from youtube and b
 ### Assignments
 * [assignment 1](https://github.com/Huixxi/CS234-Reinforcement-Learning/tree/master/assignment%201)
 
-* assignment 2
+* [assignment 2](https://github.com/Huixxi/CS234-Reinforcement-Learning/tree/master/assignment%202)
 
 * assignment 3
 
@@ -23,6 +23,8 @@ This course contains 8 lecture videos, and you can watch them from youtube and b
   * [Deep Learning](http://www.deeplearningbook.org/)
 
 * Papers:
+  * [DeepMind Nature Paper](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf)
+  * [Deep Q-Network](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
   * To be continue ...
   
 * Videos:
