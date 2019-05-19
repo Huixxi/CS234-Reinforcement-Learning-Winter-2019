@@ -25,7 +25,6 @@ This course contains 8 lecture videos, and you can watch them from youtube and b
 * Papers:
   * [DeepMind Nature Paper](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf)
   * [Deep Q-Network](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
-  * To be continue ...
   
 * Videos:
   * To be continue ...
