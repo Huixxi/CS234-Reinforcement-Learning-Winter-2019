@@ -22,10 +22,15 @@ This course contains 8 lecture videos, and you can watch them from youtube and b
   * [Reinforcement Learning: An Introduction Edition 2](http://incompleteideas.net/book/the-book-2nd.html)
   * [Deep Learning](http://www.deeplearningbook.org/)
 
-* Papers:
+* Papers:  
+  `Deep Q Learning`
   * [DeepMind Nature Paper](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf)
   * [Deep Q-Network](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
-  * [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf)
+  * [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf)  
+  
+  `Imitation Learning`
+  * [Generative Adversarial Imitation Learning](https://arxiv.org/pdf/1606.03476.pdf)
+  * [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf)
   
 * Videos:
   * To be continue ...
