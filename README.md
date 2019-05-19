@@ -29,7 +29,7 @@ This course contains 8 lecture videos, and you can watch them from youtube and b
   * [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf)  
   
   `Imitation Learning`
-  * [Generative Adversarial Imitation Learning](https://arxiv.org/pdf/1606.03476.pdf)
+  * [Generative Adversarial Imitation Learning(GAIL)](https://arxiv.org/pdf/1606.03476.pdf)
   * [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf)
   
 * Videos:
