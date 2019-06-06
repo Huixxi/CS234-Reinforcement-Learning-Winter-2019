@@ -56,10 +56,11 @@ class NatureQN(Linear):
         ################ YOUR CODE HERE - 10-15 lines ################ 
 
         with tf.variable_scope(scope, reuse=reuse) as _:
-            conv1 = layers.conv2d(state, num_outputs=16, kernel_size=(8, 8), stride=4, activation_fn=tf.nn.relu)
-            conv2 = layers.conv2d(conv1, num_outputs=32, kernel_size=(4, 4), stride=2, activation_fn=tf.nn.relu)
-            full_inputs = layers.flatten(conv2)
-            full_layer = layers.fully_connected(full_inputs, num_outputs=256, activation_fn=tf.nn.relu)
+            conv1 = layers.conv2d(state, num_outputs=32, kernel_size=(8, 8), stride=4, activation_fn=tf.nn.relu)
+            conv2 = layers.conv2d(conv1, num_outputs=64, kernel_size=(4, 4), stride=2, activation_fn=tf.nn.relu)
+            conv3 = layers.conv2d(conv2, num_outputs=64, kernel_size=(3, 3), stride=1, activation_fn=tf.nn.relu)
+            full_inputs = layers.flatten(conv3)
+            full_layer = layers.fully_connected(full_inputs, num_outputs=512, activation_fn=tf.nn.relu)
             out = layers.fully_connected(full_layer, num_outputs=num_actions)
 
         ##############################################################
