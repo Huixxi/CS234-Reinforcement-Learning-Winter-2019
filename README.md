@@ -22,6 +22,10 @@ This course contains 8 lecture videos, and you can watch them from youtube and b
   * [Reinforcement Learning: An Introduction Edition 2](http://incompleteideas.net/book/the-book-2nd.html)
   * [Deep Learning](http://www.deeplearningbook.org/)
 
+* RL Courses
+  * [OpenAI Spining Up](https://spinningup.openai.com/en/latest/)
+
+
 * Papers:  
   `Deep Q Learning`
   * [DeepMind Nature Paper](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf)
