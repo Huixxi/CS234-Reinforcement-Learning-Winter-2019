@@ -9,11 +9,11 @@ This course contains 8 lecture videos, and you can watch them from youtube and b
 
 ***
 ### Assignments
-* [assignment 1](https://github.com/Huixxi/CS234-Reinforcement-Learning/tree/master/assignment%201)
+* [assignment 1](https://github.com/Huixxi/CS234-Reinforcement-Learning-Winter-2019/tree/master/assignment%201)
 
-* [assignment 2](https://github.com/Huixxi/CS234-Reinforcement-Learning/tree/master/assignment%202)
+* [assignment 2](https://github.com/Huixxi/CS234-Reinforcement-Learning-Winter-2019/tree/master/assignment%202)
 
-* assignment 3
+* [assignment 3](https://github.com/Huixxi/CS234-Reinforcement-Learning-Winter-2019/tree/master/assignment%203)
 
 ***
 ### Highly Recommended RL Resources
