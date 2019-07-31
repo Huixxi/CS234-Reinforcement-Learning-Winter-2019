@@ -1,4 +1,4 @@
-![](https://github.com/Huixxi/CS234-Reinforcement-Learning-Winter-2019/blob/master/rl_images/0002.jpg)
+![](https://github.com/Huixxi/CS234-Reinforcement-Learning-Winter-2019/blob/master/rl_images/RL_Cover.jpg)
 # CS234-Reinforcement-Learning
 My Solutions of Assignments of [CS234: Reinforcement Learning Winter 2019](http://web.stanford.edu/class/cs234/index.html)
 ***
