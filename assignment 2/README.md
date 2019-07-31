@@ -4,7 +4,7 @@ This assignment is a little bit hard, corresponding to lecture 5 and lecture 6, 
 You better learn the course slides scrupulously and do the written homework first, 
 which guarantees you fully understand the algorithm.  
 ***Notes:*** 
-> I just test it and it runs well. Because it will take a very long time to train.
+> Because it will take a very long time to train, I just test it and it runs well.
 
 ## Related Knowledge
 * Q-Learning.
