@@ -1,3 +1,22 @@
+# Assignment 2
+This assignment is a little bit hard, corresponding to lecture 8 to lecture 10(Policy Gradient I,II,III), 
+which runs under the  
+[Pong-v0](https://gym.openai.com/envs/Pong-v0/) environments of [Open AI gym](https://gym.openai.com/). 
+You better learn the course slides scrupulously and do the written homework first, 
+which guarantees you fully understand the PG algorithm.  
+***Notes:*** 
+> I just test it and it runs well. Because it will take a very long time to train.
+
+## Related Knowledge
+* Q-Learning.
+* Deep Q-Network.
+
+## Recommend Readings
+* [DeepMind's Nature Paper](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf)
+* [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+
+___
+
 # RL with Atari
 
 ## Install
