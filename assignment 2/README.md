@@ -1,9 +1,8 @@
 # Assignment 2
-This assignment is a little bit hard, corresponding to lecture 8 to lecture 10(Policy Gradient I,II,III), 
-which runs under the  
+This assignment is a little bit hard, corresponding to lecture 5 and lecture 6, which runs under the  
 [Pong-v0](https://gym.openai.com/envs/Pong-v0/) environments of [Open AI gym](https://gym.openai.com/). 
 You better learn the course slides scrupulously and do the written homework first, 
-which guarantees you fully understand the PG algorithm.  
+which guarantees you fully understand the algorithm.  
 ***Notes:*** 
 > I just test it and it runs well. Because it will take a very long time to train.
 
