@@ -17,4 +17,4 @@ directly, because I don't have the `Mojoco Licence`(so expensive!) which is requ
 ## Recommend Readings
 * Reinforcement Learning: An Introduction Edition 2
   * Chapter 13 Policy Gradient Methods
-* [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
+* [Policy Gradient Algorithms (Blog)](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
