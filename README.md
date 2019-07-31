@@ -27,7 +27,7 @@ You can download the slides for each lecture from [here](http://web.stanford.edu
 
 * RL Courses
   * [OpenAI Spining Up](https://spinningup.openai.com/en/latest/)
-
+  * [RL-DeepMind Tutorials 2018 (Video)](https://www.youtube.com/playlist?list=PLTrPwBmRciYBs4a8qQVuFz3zByUqqoStG)
 
 * Papers:  
   `Deep Q Learning`
@@ -39,9 +39,6 @@ You can download the slides for each lecture from [here](http://web.stanford.edu
   * [Generative Adversarial Imitation Learning(GAIL)](https://arxiv.org/pdf/1606.03476.pdf)
   * [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf)
   
-* Videos:
-  * To be continue ...
-
 * Blogs:
   * [Policy Gradient Algorithm](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
 
