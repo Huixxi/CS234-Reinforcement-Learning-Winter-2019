@@ -22,8 +22,8 @@ You can download the slides for each lecture from [here](http://web.stanford.edu
 * Resources List
   * [RL Resources](https://docs.google.com/document/d/1frWabYtrRE4_Ak2fhcNtk7U-ujtU5Aq762Nq-Ryi9A8/edit)
 * TextBooks
-  * [Reinforcement Learning: An Introduction Edition 2 - R.Sutton, G.Barto](http://incompleteideas.net/book/the-book-2nd.html)
-  * [Deep Learning - Yoshua Bengio](http://www.deeplearningbook.org/)
+  * [Reinforcement Learning: An Introduction 2nd Edition(R.Sutton, G.Barto)](http://incompleteideas.net/book/the-book-2nd.html)
+  * [Deep Learning(Yoshua Bengio)](http://www.deeplearningbook.org/)
 
 * RL Courses
   * [OpenAI Spining Up](https://spinningup.openai.com/en/latest/)
