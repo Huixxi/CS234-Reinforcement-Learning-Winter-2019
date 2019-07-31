@@ -32,7 +32,7 @@ You can download the slides for each lecture from [here](http://web.stanford.edu
 * Papers:  
   `Deep Q Learning`
   * [DeepMind Nature Paper](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf)
-  * [Deep Q-Network](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+  * [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
   * [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf)  
   
   `Imitation Learning`
