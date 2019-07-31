@@ -41,7 +41,7 @@ This course contains 15 lecture videos, and you can watch them from youtube and 
   * To be continue ...
 
 * Blogs:
-  * To be continue ...
+  * [Policy Gradient Algorithm](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
 
 ***
 ### Author
