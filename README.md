@@ -3,7 +3,7 @@
 My Solutions of Assignments of [CS234: Reinforcement Learning Winter 2019](http://web.stanford.edu/class/cs234/index.html)
 ***
 ### Lecture Videos
-This course contains 8 lecture videos, and you can watch them from youtube and bilibili(vpn free).
+This course contains 15 lecture videos, and you can watch them from youtube and bilibili(vpn free).
 * [YouTube StanfordOnline](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 * [Bilibili](https://www.bilibili.com/video/av47812079?from=search&seid=3645116309541169863)
 
