@@ -3,8 +3,8 @@ This assignment is a little bit hard, corresponding to lecture 8 to lecture 10(P
 which runs under the  
 [CartPole-v1](https://gym.openai.com/envs/CartPole-v1/)[discrete], 
 [InvertedPendulum-v2](https://gym.openai.com/envs/InvertedPendulum-v2/)[continuous], 
-[HalfCheetah-v2](https://gym.openai.com/envs/HalfCheetah-v2/)[continuous]
-environments of [Open AI gym](https://gym.openai.com/). 
+[HalfCheetah-v2](https://gym.openai.com/envs/HalfCheetah-v2/)[continuous], 
+3 different environments of [Open AI gym](https://gym.openai.com/). 
 You better learn the course slides scrupulously and do the written homework first, 
 which guarantees you fully understand the PG algorithm.  
 ***Notes:*** 
