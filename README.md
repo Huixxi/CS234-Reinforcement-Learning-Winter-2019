@@ -41,6 +41,12 @@ You can download the slides for each lecture from [here](http://web.stanford.edu
   
 * Blogs:
   * [Policy Gradient Algorithm](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
+  * [Meta Reinforcement Learning](https://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html)
+  * [Rainbow](https://github.com/Huixxi/TensorFlow2.0-for-Deep-Reinforcement-Learning/blob/master/tutorial_blogs/Building_Rainbow_Step_by_Step_with_TensorFlow2.0.md)
+
+* Podcasts:
+  * [TalkRL](https://www.talkrl.com/)
+  * [DeepMind: The Podcast](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9KVDZwYlBrZw%3D%3D)
 
 ***
 ### Author
